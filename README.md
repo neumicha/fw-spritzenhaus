@@ -6,7 +6,7 @@
 ## Introduction
 
 This repository contains very simple source code that might be used with a wooden house as depicted here:
-![Wooden house with flames that can fall over.](https://github.com/neumicha/blob/main/media/img_house.jpg)
+![Wooden house with flames that can fall over.](https://raw.githubusercontent.com/neumicha/fw-spritzenhaus/main/media/img_house.jpg)
 When all the flames are fallen over, some actions are triggered.
 We use this in the local youth fire brigade for interested kids. They can "extinguish the fire" with a small water hose. After all eight flames are fallen, we trigger a flashing blue light, a horn/siren and play some music.
 
@@ -24,7 +24,7 @@ So we decided to build a luxury version with:
 * Microcontroller to trigger multiple actions in the defined order
 * Reed contacts with a magnet on each flame instead of copper contacts (no rusting)
 
-![Circuit board.](https://github.com/neumicha/blob/main/media/img_board-top.jpg)
+![Circuit board.](https://raw.githubusercontent.com/neumicha/fw-spritzenhaus/main/media/img_board-top.jpg)
 
 ## Usage
 
